@@ -2,6 +2,8 @@ Custom RuleTile system for unity
 
 easier to edit and allow diffrent ruletiles to communicate with each 
 
+can be used for sprite or tilebase 
+
 create Pro_Ruletile object and start
 
 
